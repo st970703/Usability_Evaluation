@@ -1,0 +1,14 @@
+Error Prevention
+main screen gives warning when no internet connection
+the map functionality prevents user from selecting non-existing bus stops
+
+Flexibility and efficiency of use
+the user may forget to select bus routes for the monitored bus stop which may reduce efficiency
+
+help and documentation
+only when first time using app and some on app srore, but that is not detailed enough, eg which button to press.
+
+Test Objectives:
+the object of this test is to evaluate the usability of the AT METRO Track My Bus App, which wis used to monitor bus stops and selected bus routes of these stops.
+
+
