@@ -1,0 +1,16 @@
+A total of 10 developers were asked to evaluate the usability of the system which has been implemented as a plugin to the IntelliJ IDE. After an initial training, users were tasked to find the intent of an obfuscated variable in code using both the gaze-based browsing feature and the IDE provided browsing features. The users then evaluated these two methods using a System Usability Score (SUS) measure. They were also asked to list what additional features they would like to see in the future.
+The SUS score of the system obtained from the evaluation was at 77.75 which is a good score on the percentile rank.  The most requested feature was the ability to scroll in the editor using gaze.
+
+Discussion
+The developed plugin has a good usability score indicating that eye gaze data is a promising means of input to an IDE.
+Scrolling with eyes being the most requested feature indicates that users prefer to perform all functionality with the eyes given a choice.
+Future Work
+Configuring the confirm buttons on the sides to support additional functionality.
+Applying an appropriate filter on the gaze stream data to reduce noise in the data.
+Adding support for scrolling in the text editor using gaze.
+
+Conclusion
+An IntelliJ plugin which enables users to browse source code using just their eyes has been developed. 
+The plugin implements the “Find All Usages” and “Go To Declaration” features of the IDE.
+The plugin has a good usability score as measured using the SUS scale.
+The results show that most users preferred using the gaze-controlled browsing ability and agreed that it would help to enhance their productivity.
